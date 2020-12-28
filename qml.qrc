@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>StickView.qml</file>
+        <file>PhilosopherView.qml</file>
+        <file>QPText.qml</file>
+        <file>QPSpinBox.qml</file>
+    </qresource>
+</RCC>
